@@ -37,7 +37,7 @@ const TabsLayout = () => {
       <Tabs.Screen
       name = "home"
       options = {{
-        titel:'Home',
+        title:'Home',
         headerShown: false,
         tabBarIcon: ({ color, focused }) => (
           <TabIcon
@@ -52,7 +52,7 @@ const TabsLayout = () => {
       <Tabs.Screen
       name = "bookmark"
       options = {{
-        titel:'Bookmark',
+        title:'Bookmark',
         headerShown: false,
         tabBarIcon: ({ color, focused }) => (
           <TabIcon
@@ -66,7 +66,7 @@ const TabsLayout = () => {
       /><Tabs.Screen
       name = "create"
       options = {{
-        titel:'Create',
+        title:'Create',
         headerShown: false,
         tabBarIcon: ({ color, focused }) => (
           <TabIcon
@@ -80,7 +80,7 @@ const TabsLayout = () => {
       /><Tabs.Screen
       name = "profile"
       options = {{
-        titel:'Profile',
+        title:'Profile',
         headerShown: false,
         tabBarIcon: ({ color, focused }) => (
           <TabIcon
