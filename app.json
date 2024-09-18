@@ -28,7 +28,10 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.jdim.fotobank",
-      "jsEngine": "hermes"
+      "jsEngine": "hermes",
+      "permissions": [
+        "INTERNET"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"

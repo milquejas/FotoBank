@@ -13,7 +13,7 @@
     "@expo/html-elements": "^0.10.1",
     "@expo/metro-config": "^0.18.11",
     "@expo/prebuild-config": "~7.0.8",
-    "@types/react": "^18.2.79",
+    "@types/react": "~18.2.79",
     "expo": "^51.0.32",
     "expo-av": "^14.0.7",
     "expo-constants": "~16.0.2",
